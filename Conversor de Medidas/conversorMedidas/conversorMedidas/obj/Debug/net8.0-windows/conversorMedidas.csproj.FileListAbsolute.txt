@@ -1,0 +1,16 @@
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\obj\Debug\net8.0-windows\conversorMedidas.Form1.resources
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\obj\Debug\net8.0-windows\conversorMedidas.csproj.GenerateResource.cache
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\obj\Debug\net8.0-windows\conversorMedidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\obj\Debug\net8.0-windows\conversorMedidas.AssemblyInfoInputs.cache
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\obj\Debug\net8.0-windows\conversorMedidas.AssemblyInfo.cs
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\obj\Debug\net8.0-windows\conversorMedidas.csproj.CoreCompileInputs.cache
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\bin\Debug\net8.0-windows\conversorMedidas.exe
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\bin\Debug\net8.0-windows\conversorMedidas.deps.json
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\bin\Debug\net8.0-windows\conversorMedidas.runtimeconfig.json
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\bin\Debug\net8.0-windows\conversorMedidas.dll
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\bin\Debug\net8.0-windows\conversorMedidas.pdb
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\obj\Debug\net8.0-windows\conversorMedidas.dll
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\obj\Debug\net8.0-windows\refint\conversorMedidas.dll
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\obj\Debug\net8.0-windows\conversorMedidas.pdb
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\obj\Debug\net8.0-windows\conversorMedidas.genruntimeconfig.cache
+C:\Desenvovimento\Conversor de Medidas\conversorMedidas\conversorMedidas\obj\Debug\net8.0-windows\ref\conversorMedidas.dll

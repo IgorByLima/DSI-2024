@@ -1,0 +1,16 @@
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\bin\Debug\net8.0-windows\exemplo_po.exe
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\bin\Debug\net8.0-windows\exemplo_po.deps.json
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\bin\Debug\net8.0-windows\exemplo_po.runtimeconfig.json
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\bin\Debug\net8.0-windows\exemplo_po.dll
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\bin\Debug\net8.0-windows\exemplo_po.pdb
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\obj\Debug\net8.0-windows\exemplo_po.Form1.resources
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\obj\Debug\net8.0-windows\exemplo_po.csproj.GenerateResource.cache
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\obj\Debug\net8.0-windows\exemplo_po.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\obj\Debug\net8.0-windows\exemplo_po.AssemblyInfoInputs.cache
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\obj\Debug\net8.0-windows\exemplo_po.AssemblyInfo.cs
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\obj\Debug\net8.0-windows\exemplo_po.csproj.CoreCompileInputs.cache
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\obj\Debug\net8.0-windows\exemplo_po.dll
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\obj\Debug\net8.0-windows\refint\exemplo_po.dll
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\obj\Debug\net8.0-windows\exemplo_po.pdb
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\obj\Debug\net8.0-windows\exemplo_po.genruntimeconfig.cache
+C:\Desenvovimento\Exemplo_Po\exemplo_po\exemplo_po\obj\Debug\net8.0-windows\ref\exemplo_po.dll

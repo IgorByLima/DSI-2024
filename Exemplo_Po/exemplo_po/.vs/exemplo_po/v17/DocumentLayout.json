@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desenvovimento\\Exemplo_Po\\exemplo_po\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7976D75-43DA-4CD4-BA45-8F3211F5A157}|exemplo_po\\exemplo_po.csproj|c:\\desenvovimento\\exemplo_po\\exemplo_po\\exemplo_po\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7976D75-43DA-4CD4-BA45-8F3211F5A157}|exemplo_po\\exemplo_po.csproj|solutionrelative:exemplo_po\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7976D75-43DA-4CD4-BA45-8F3211F5A157}|exemplo_po\\exemplo_po.csproj|c:\\desenvovimento\\exemplo_po\\exemplo_po\\exemplo_po\\clsusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7976D75-43DA-4CD4-BA45-8F3211F5A157}|exemplo_po\\exemplo_po.csproj|solutionrelative:exemplo_po\\clsusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7976D75-43DA-4CD4-BA45-8F3211F5A157}|exemplo_po\\exemplo_po.csproj|C:\\Desenvovimento\\Exemplo_Po\\exemplo_po\\exemplo_po\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7976D75-43DA-4CD4-BA45-8F3211F5A157}|exemplo_po\\exemplo_po.csproj|solutionrelative:exemplo_po\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Desenvovimento\\Exemplo_Po\\exemplo_po\\exemplo_po\\Form1.cs",
+              "RelativeDocumentMoniker": "exemplo_po\\Form1.cs",
+              "ToolTip": "C:\\Desenvovimento\\Exemplo_Po\\exemplo_po\\exemplo_po\\Form1.cs",
+              "RelativeToolTip": "exemplo_po\\Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:44:32.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsusuario.cs",
+              "DocumentMoniker": "C:\\Desenvovimento\\Exemplo_Po\\exemplo_po\\exemplo_po\\clsusuario.cs",
+              "RelativeDocumentMoniker": "exemplo_po\\clsusuario.cs",
+              "ToolTip": "C:\\Desenvovimento\\Exemplo_Po\\exemplo_po\\exemplo_po\\clsusuario.cs",
+              "RelativeToolTip": "exemplo_po\\clsusuario.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:30:32.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Desenvovimento\\Exemplo_Po\\exemplo_po\\exemplo_po\\Form1.cs",
+              "RelativeDocumentMoniker": "exemplo_po\\Form1.cs",
+              "ToolTip": "C:\\Desenvovimento\\Exemplo_Po\\exemplo_po\\exemplo_po\\Form1.cs [Projeto]",
+              "RelativeToolTip": "exemplo_po\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:35:03.832Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
