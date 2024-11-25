@@ -1,0 +1,155 @@
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.exe
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.deps.json
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.runtimeconfig.json
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.pdb
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.Form1.resources
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\refint\BDEXEMPLO.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.pdb
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\ref\BDEXEMPLO.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.exe
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.deps.json
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.runtimeconfig.json
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.pdb
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.AssemblyReference.cache
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.Form1.resources
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.GenerateResource.cache
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.GeneratedMSBuildEditorConfig.editorconfig
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.AssemblyInfoInputs.cache
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.AssemblyInfo.cs
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.CoreCompileInputs.cache
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.Up2Date
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\refint\BDEXEMPLO.dll
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.pdb
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.genruntimeconfig.cache
+E:\DADOS\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\ref\BDEXEMPLO.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.exe
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.deps.json
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.runtimeconfig.json
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.pdb
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.AssemblyReference.cache
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.Form1.resources
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.GenerateResource.cache
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.AssemblyInfoInputs.cache
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.AssemblyInfo.cs
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.CoreCompileInputs.cache
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.Up2Date
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\refint\BDEXEMPLO.dll
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.pdb
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.genruntimeconfig.cache
+D:\DADOS\2024\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\ref\BDEXEMPLO.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.exe
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.deps.json
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.runtimeconfig.json
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.pdb
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.AssemblyReference.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.Form1.resources
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.GenerateResource.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.AssemblyInfoInputs.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.AssemblyInfo.cs
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.CoreCompileInputs.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.Up2Date
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\refint\BDEXEMPLO.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.pdb
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.genruntimeconfig.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\ref\BDEXEMPLO.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.exe
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.deps.json
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.runtimeconfig.json
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BDEXEMPLO.pdb
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.AssemblyReference.cache
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.Form1.resources
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.GenerateResource.cache
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.AssemblyInfoInputs.cache
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.AssemblyInfo.cs
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.CoreCompileInputs.cache
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.Up2Date
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\refint\BDEXEMPLO.dll
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.pdb
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.genruntimeconfig.cache
+D:\DADOS\1-AULAS\2024\DS I\BD\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\ref\BDEXEMPLO.dll
+C:\Users\lenovo\Desktop\BDEXEMPLO\BDEXEMPLO\obj\Debug\net8.0-windows\BDEXEMPLO.csproj.Up2Date
